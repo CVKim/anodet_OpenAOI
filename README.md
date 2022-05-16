@@ -1,7 +1,7 @@
 # anodet_OpenAOI
 
 
-// Source, boundary, heatmap, gihhlighted Image
+// Source, boundary, heatmap, highlighted Image
 
 ![image](https://user-images.githubusercontent.com/90014998/167331570-299d5e66-640d-43e6-8747-6b5aae694ab8.png)
 
